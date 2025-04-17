@@ -25,10 +25,10 @@
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
+              "essentials/代码",
+              "essentials/图片",
+              "essentials/设置",
+              "essentials/导航",
               "essentials/reusable-snippets"
             ]
           }
